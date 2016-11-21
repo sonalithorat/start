@@ -1,16 +1,16 @@
 
 class Color
 {
-	int blue,green,red;
+	int blue1,green,red;
 	Color()
 	{
-		blue=10;
+		blue1=10;
 		green=10;
 		red=10;
 	}
 	void display()
 	{
-		System.out.println("red="+red+",blue="+blue);
+		System.out.println("red="+red+",blue="+blue1);
 	}
 	
 	
